@@ -1,0 +1,64 @@
+{
+  "format": 1,
+  "restore": {
+    "F:\\mygeteecode\\halconMvvm\\HalconMvvm\\HalconMvvm.csproj": {}
+  },
+  "projects": {
+    "F:\\mygeteecode\\halconMvvm\\HalconMvvm\\HalconMvvm.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "F:\\mygeteecode\\halconMvvm\\HalconMvvm\\HalconMvvm.csproj",
+        "projectName": "HalconMvvm",
+        "projectPath": "F:\\mygeteecode\\halconMvvm\\HalconMvvm\\HalconMvvm.csproj",
+        "packagesPath": "C:\\Users\\52465\\.nuget\\packages\\",
+        "outputPath": "F:\\mygeteecode\\halconMvvm\\HalconMvvm\\obj\\",
+        "projectStyle": "PackageReference",
+        "skipContentFileWrite": true,
+        "configFilePaths": [
+          "C:\\Users\\52465\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net48"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net48": {
+            "projectReferences": {}
+          }
+        }
+      },
+      "frameworks": {
+        "net48": {
+          "dependencies": {
+            "CommunityToolkit.Mvvm": {
+              "target": "Package",
+              "version": "[8.0.0, )"
+            },
+            "HalconDotNet": {
+              "target": "Package",
+              "version": "[19.11.0, )"
+            }
+          }
+        }
+      },
+      "runtimes": {
+        "win": {
+          "#import": []
+        },
+        "win-arm64": {
+          "#import": []
+        },
+        "win-x64": {
+          "#import": []
+        },
+        "win-x86": {
+          "#import": []
+        }
+      }
+    }
+  }
+}
